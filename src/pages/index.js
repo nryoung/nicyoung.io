@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import MainPageIcon from '../components/main-page-icon';
 import githubIcon from '../images/github-icon.svg';
 import twitterIcon from '../images/twitter-icon.svg';
+import emailIcon from '../images/email-icon.svg';
 import * as colors from '../styles/colors';
 import media from '../styles/media';
 
@@ -78,6 +79,11 @@ const MainPage = () => (
         target="_blank"
       >
         <StyledIcon iconName={twitterIcon} />
+      </a>
+      <a
+        href="mailto:nryoung@gmail.com"
+      >
+        <StyledIcon iconName={emailIcon} />
       </a>
     </IconsContainer>
   </StyledInfo>
