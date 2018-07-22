@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import MainPageIcon from '../components/main-page-icon';
+import blogIcon from '../images/blog-icon.svg';
 import githubIcon from '../images/github-icon.svg';
 import twitterIcon from '../images/twitter-icon.svg';
 import emailIcon from '../images/email-icon.svg';
@@ -66,6 +67,11 @@ const MainPage = () => (
     <StyledName>Nic Young</StyledName>
     <StyledByline>Engineer, Developer and Drinker of Beer</StyledByline>
     <IconsContainer>
+      <a
+        href="/blog"
+      >
+        <StyledIcon iconName={blogIcon} />
+      </a>
       <a
         href="https://github.com/nryoung"
         rel="noreferrer noopener"
