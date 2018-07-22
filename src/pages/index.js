@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import Link from 'gatsby-link';
 
 import MainPageIcon from '../components/main-page-icon';
 import blogIcon from '../images/blog-icon.svg';
@@ -67,11 +68,11 @@ const MainPage = () => (
     <StyledName>Nic Young</StyledName>
     <StyledByline>Engineer, Developer and Drinker of Beer</StyledByline>
     <IconsContainer>
-      <a
-        href="/blog"
+      <Link
+        to="/blog"
       >
         <StyledIcon iconName={blogIcon} />
-      </a>
+      </Link>
       <a
         href="https://github.com/nryoung"
         rel="noreferrer noopener"
