@@ -1,7 +1,18 @@
 import React from 'react';
+import styled from 'styled-components';
 import Helmet from 'react-helmet';
-import Link from 'gatsby-link';
 import get from 'lodash/get';
+
+import Navigation from '../components/navigation';
+
+const Page = styled.div`
+  margin: 0 auto;
+  max-width: 800px;
+`;
+
+const BlogBody = styled.div`
+  margin: 230px 8px 0;
+`;
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -9,13 +20,16 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = get(this.props, 'data.site.siteMetadata.title');
 
     return (
-      <div>
+      <Page>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <h1>{post.frontmatter.title}</h1>
-        <p>{post.frontmatter.date}</p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr />
-      </div>
+        <Navigation />
+        <BlogBody>
+          <h1>{post.frontmatter.title}</h1>
+          <p>{post.frontmatter.date}</p>
+          <div dangerouslySetInnerHTML={{ __html: post.html }} />
+          <hr />
+        </BlogBody>
+      </Page>
     );
   }
 }
