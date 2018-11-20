@@ -3,10 +3,12 @@
   "description": "Nic Young's Website",
   "version": "1.0.0",
   "author": "Nic Young",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "@11ty/eleventy": "^0.5.4"
   },
   "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve"
   }
 }

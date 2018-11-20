@@ -1,10 +1,14 @@
 ---
 title: New Beginnings
-date: "2018-10-22T22:40:32.169Z"
-path: "/new-beginnings/"
+date: "2018-10-22"
+layout: layouts/base.njk
+tags:
+  - post
 ---
 
-Smile, breathe and go slowly. -- Thich Nhat Hanh.<!-- end -->
+# New Beginnings
+
+*Smile, breathe and go slowly. -- Thich Nhat Hanh.*
 
 
 ## Buying more than we need
