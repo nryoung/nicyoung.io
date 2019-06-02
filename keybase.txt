@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/nry
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nicyoung.io
+  * I am nry (https://keybase.io/nry) on keybase.
+  * I have a public key with fingerprint 779F C8B4 4F6A 47CD 866C  B2E2 EB6D 4261 B3A6 38F4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120440ed192f18eff6c5db82ebdb1db8bd3eae512fd6826b2627b607239368ee8110a",
+      "fingerprint": "779fc8b44f6a47cd866cb2e2eb6d4261b3a638f4",
+      "host": "keybase.io",
+      "key_id": "eb6d4261b3a638f4",
+      "kid": "010146e692c8962c43a6c10230500cfe3001c97845851606c478f3af2b42a1aa26f00a",
+      "uid": "4356cea4efa3c3737caf0e6d49c3c919",
+      "username": "nry"
+    },
+    "service": {
+      "hostname": "nicyoung.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1559490060,
+  "expire_in": 157680000,
+  "prev": "595365c6129bf5ebb6946e78b18db1d9f95219f123ea0f47b0a130ad847c3113",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJrUFVVFL4oEs8IFYJUnA4zoXnVs89jn3OuJRGMSKCWQwiIczuPfeAA
+98G9F5JIE0ygeMgbNRyoHzSNFDMQTj5wQGRkUsikFzAOXRsig7kXJ6Y0eXQOxb/2
+n733Wt/61rceNwJW63w9pk2v8l1t7JzHrb7aPF36Hy7/QkywSAWYoRDLRssXypGQ
+3WHMViTMgOGAwCkKRxLgCBmwSJahSEsCSyBBEoD6ECQS8YgGhCxBloACAQlGgDhD
+kBwJWYRYAHAe02OyYs5ANqtNMTtUWobhZJEVKEqGPMWIEguhKBBIZYUSRUAgkDwk
+WZlSAzMtdi1CFSfwdrRDsag29WNclvc/+BXdOKAgghwhshwkREoFiAAnSJzGcVFG
+JI4DkWNYimZpAHEoUgwrk7xMCBTBA54noIwv685bpqNIGoqIp5DMkyLJkIzIyzhS
+c3MiKXKA04B2ZDPzJqSizbYC7JgeUw35ioi0nmpFrDgVscCSZ874txKrzeKwiJYc
+1ZHpcFjtBi3QUWDVkG8jwfgfh1FQzJLaQTUiH9nsisWMGYCKFB2KRgpomqM4HIe4
+HkNHrYoNGRUNQTOQxdWj5UH5KiXN0SSkRQgITpBpJAiQU7vEsAJgtXFyMkcTgJMB
+oQ4VlylGwHlA4rzEqkMiASAxrapcs0XjVnXyGSqnXckw8448G8KOXe9L99R5+Oq8
+1qzSVkvn6/PMysJF+wUuGlxRr7vpnpTuqt/iDaEbz4EPG4cexJ8M3/9SzRC1q9V1
+xBESuq5PbIvuiqrf+nfcn10dVIuX/6B1ojFusv5dJt1ry3z5xaafBrsXOz7tzm5L
+fRwZe6fym5TMMWl6oeqGj7NJ5/tovLhsm2flnsmQ5G/3Xu6/9kFk8ePQ4PVD1R/r
+FyY2ubcd/u6NLP1A5ienMTtMDjqy82bdO+SJ8vOxO5fmTw2kPapo35vqPF9fXsk3
+bpfjT15IUr5PrE/6coY88PLziZG9xWBHzbMJwSNF12sta8sKuT3eiRGuuAvOzdVF
+CxOvhSzKTT9YT+H6dt8s1/vbj/9S8qLHUl1u+FBc6cbR08+584+OLEYsJKeW/FxY
+WpE+Zt4SLFxs14ENu3tWpVRdWhMWsdVootvCy87e9UtLamif3EcMO5/cyfl1XLjk
+Bp79uYNV90bdDWcP7rv9wlxObt2s39MwaF21t2kDG539VIk7IeCq95lbi195hq+9
+Ujt9vHskqiq5NfZaa3OMTB0CnT6/D4S1zTQQT0yb+mPuP7x8eGzQx9FTP5WV6Tzz
++X3/efzByeYvfD878TBtpnP8ykezYcS5v358pWiq8iBb6grM6by5eKCa3383X7ZP
+kbPDWZvJpZQOY+KhN3UN77UM9xL5psDbFd2rK966N9ZiDtDVfL2+edfVmITo3rnd
+w4MJuUFdo87MfwBx1L+w
+=L462
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nry
+
+==================================================================
+
