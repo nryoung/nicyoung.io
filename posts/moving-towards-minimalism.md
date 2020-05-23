@@ -3,7 +3,7 @@ title: Moving towards minimalism
 date: "2018-11-25"
 layout: layouts/base.njk
 tags:
-  - post
+  - posts
 ---
 
 # Moving towards minimalism

@@ -5,11 +5,12 @@
   "author": "Nic Young",
   "dependencies": {},
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy-plugin-rss": "^1.0.7"
   },
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve",
-    "version": "npx  @11ty/eleventy --version"
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "version": "eleventy --version"
   }
 }
