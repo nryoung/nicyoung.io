@@ -5,10 +5,11 @@
   "author": "Nic Young",
   "dependencies": {},
   "devDependencies": {
-    "@11ty/eleventy": "^0.5.4"
+    "@11ty/eleventy": "^0.10.0"
   },
   "scripts": {
-    "build": "npx eleventy",
-    "serve": "npx eleventy --serve"
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "version": "npx  @11ty/eleventy --version"
   }
 }
