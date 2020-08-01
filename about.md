@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 tags:
   - nav
-navtitle: About 
+title: About
 ---
 
 # About me
