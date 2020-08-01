@@ -7,34 +7,32 @@ title: About
 
 # About me
 
-Hi there! My name is Nic Young and I am Software Engineer. I live and work from
-beautiful Denver, Colorado (which also happens to be my hometown). I started my
-career many years ago working in the backend of the web stack mainly in Python.
-Recently, I have been working completely in the frontend of the stack mainly
-with React.
+Howdy! My name is Nic Young and I am Software Engineer. I live and work from
+beautiful Denver, Colorado. I have worked in all areas of the stack through out
+my career, from writing ETL pipelines, to writing REST and GraphQL API's, to
+writing UI's on the frontend. I don't prefer a particular area of the stack, I
+just like to work on interesting problems.
 
-Apart from computers I love spending time with my wife and 2 dogs. I also enjoy
-hiking, brewing (and enjoying) beer, hockey and writing. I am always trying to
-channel my inner Dale Cooper in all aspects of my life and I always try to come
-up with witty puns (though I am pretty bad at it).
+Apart from computers I love spending time with my wife, my son and my 2 dogs. I also enjoy
+hiking, brewing (and enjoying) beer, hockey, gardening and writing. I am always trying to
+channel my inner [Dale Cooper](https://www.youtube.com/watch?v=XYh2PmsFuOQ) in all aspects of my life.
 
 # Projects
 
 ## Active
-- [Burgundy Rainbow](https://burgundy-rainbow.com/) - I helped co-found this
+- [Burgundy Review](https://burgundy-review.com/) - I helped co-found this
   site after our previous community was taken over by a hostile managing editor.
   We are slowly becoming the biggest fan run Avalanche hockey blog on the
   interwebs. We have a [Discord server](https://discord.gg/5HqQrgf) too, come join us!
 
+## Retired
+
 - [Co-Chapter Leader for Operation Code Denver](https://www.operationcode.org/) - 
   Operation Code is a non-profit organization that helps veterans, military
   spouses and pretty much anyone launch careers in software development by
-  helping them learn to code and providing mentorship. I am co-chair of the
+  helping them learn to code and providing mentorship. I was co-chair of the
   local Denver chapter which helps run local hackathons and meetups as well as
   local mentorship.
-
-
-## Retired 
 
 - [Algorithms](https://github.com/nryoung/algorithms) - This was a repo I
   orginally started when I was struggling with my algorithms course. It seems
