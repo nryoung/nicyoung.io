@@ -1,6 +1,6 @@
 ---
 title: Github Actions gotchas
-date: "2020-08-01"
+date: "2020-08-11"
 layout: layouts/base.njk
 tags:
   - posts
