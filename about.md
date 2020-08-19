@@ -7,9 +7,9 @@ title: About
 
 # About me
 
-Howdy! My name is Nic Young and I am Software Engineer. I live and work from
-beautiful Denver, Colorado. I have worked in all areas of the stack through out
-my career, from writing ETL pipelines, to writing REST and GraphQL API's, to
+Howdy! My name is Nic Young I live in beautiful Denver, Colorado. I am a
+Software Engineer by trade and I have worked in all areas of the stack through
+out my career, from writing ETL pipelines, to writing REST and GraphQL API's, to
 writing UI's on the frontend. I don't prefer a particular area of the stack, I
 just like to work on interesting problems.
 
